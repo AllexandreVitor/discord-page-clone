@@ -1,8 +1,7 @@
-# Discord Landing Page - Desafio DIO
+# 🚀 Desafio de Projeto - Clonar Página do Discord
 
 ![image](https://github.com/user-attachments/assets/5789e1fc-d7ce-45e4-a2dc-0eb01b076f98)
 
-# 🚀 Desafio de Projeto - Clonar Página do Discord
 
 📌 **Nível:** Iniciante
 🎯 **Objetivo:** Clonar uma página do discord específica, referente ao desafio de projeto do **Bootcamp** - **Santander 2025 - Front-End da Dio**.  
